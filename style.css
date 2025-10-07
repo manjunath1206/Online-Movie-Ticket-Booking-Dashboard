@@ -20,14 +20,14 @@ nav input{
 nav{
     display: flex;
     justify-content: space-around;
-    background-color: antiquewhite;
+    background-color:rgb(130, 177, 177);
     width: 60%;
     align-items: center;
     border-radius: 30px;
     font-weight: bold;
     position: fixed;
     margin-top: 5px;
-    background-image: linear-gradient(to right,white,red,white);
+    
 }
 nav a{
     text-decoration: none;
